@@ -2,7 +2,7 @@
 # Hi there 👋
 
 I’m a budding full-stack developer based in Morocco.  
-- 🔭 Currently building: small web apps (JS/Flask/React)  
+- 🔭 Currently building: small web apps  
 - 🌱 Learning: Node.js, React, databases  
 - 🤝 Open to: beginner-friendly collaborations
 
